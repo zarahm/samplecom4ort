@@ -1,10 +1,8 @@
-#landing {
+body {
 background-image: url("https://media.giphy.com/media/xUn3BV1jRVZImZRSKs/source.gif");
 background-repeat: no-repeat;
 background-size: cover;
-background-position: center;
-/*position: absolute;*/
-background-attachment: fixed;    
+background-position: center;    
 font-family:'Istok Web', sans-serif;
 text-align: center;  
 }
@@ -34,6 +32,11 @@ box-shadow:0 8px 6px -6px #000
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.title {
+width:100%;
+min-height:100%;
 }
 
 #about {
