@@ -5,8 +5,10 @@ background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 position:absolute;
-top: 50%;
+top: 20%;
 left: 25%; 
+height: 500px;
+background-attachment: fixed;  
   
 font-family:'Istok Web', sans-serif;
 text-align: center;  
