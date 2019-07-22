@@ -45,9 +45,10 @@ min-height:100%;
   border-width: 50px;
   text-align: center;
   font-size: 210%;
+  padding: 50px
 }
 .blah {
-background-color: #032133;
+  background-color: #032133;
   width:100%;
   min-height:100%;
   display:block;
