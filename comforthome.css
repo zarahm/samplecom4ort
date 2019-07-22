@@ -21,7 +21,6 @@ box-shadow:0 8px 6px -6px #000
 }  
   
 
-
 .navbar {
   overflow: hidden;
   background-color: #afcfee;
@@ -50,7 +49,7 @@ min-height:100%;
   padding: 50px
 }
 .section {
- /* background-color: #032133; */
+ background-color: #032133;
   width:100%;
   min-height:100%;
   display:block;
