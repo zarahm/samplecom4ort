@@ -11,7 +11,7 @@ font-family:'Istok Web', sans-serif;
 text-align: center;  
 }
 
-#title {
+header {
   text-align: center;
   font-family:'Bangers', cursive;;
 }
@@ -28,4 +28,12 @@ text-align: center;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+#about {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 50px;
+  text-align: center;
+  font-size: 210%;
 }
