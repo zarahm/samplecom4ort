@@ -1,0 +1,12 @@
+#landing {
+background-image: url("https://media.giphy.com/media/l4FGDiC9RCLrblZ2E/source.gif")
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-color:
+}
+
+#title {
+  text-align: center;
+  font-family: Satisfy;
+}
