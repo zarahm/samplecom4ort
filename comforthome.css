@@ -50,7 +50,7 @@ min-height:100%;
   padding: 50px
 }
 .section {
-  background-color: #032133;
+ /* background-color: #032133; */
   width:100%;
   min-height:100%;
   display:block;
