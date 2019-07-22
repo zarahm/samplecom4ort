@@ -5,9 +5,9 @@ background-image: url("https://media.giphy.com/media/xUn3BV1jRVZImZRSKs/source.g
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-display: block;
-margin-left: auto;
-margin-right: auto  
+position:absolute;
+top:25%;
+left:25%; 
 }
 
 #title {
