@@ -4,10 +4,7 @@ background-image: url("https://media.giphy.com/media/xUn3BV1jRVZImZRSKs/source.g
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-position:absolute;
-top: 20%;
-left: 25%; 
-height: 500px;
+position: absolute;
 background-attachment: fixed;  
   
 font-family:'Istok Web', sans-serif;
