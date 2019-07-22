@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Istok+Web&display=swap');
+
 #landing {
-font-family:'Pathway Gothic One', sans-serif;
+font-family:'Istok Web', sans-serif;
 background-image: url("https://media.giphy.com/media/xUn3BV1jRVZImZRSKs/giphy.gif");
 background-repeat: no-repeat;
 background-size: cover;
@@ -8,7 +10,7 @@ background-position: center;
 
 #title {
   text-align: center;
-  font-family:'Satisfy';
+  font-family:'Bangers', cursive;;
 }
 
 .navbar {
