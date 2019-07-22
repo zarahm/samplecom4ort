@@ -1,6 +1,5 @@
 
 #landing {
-font-family:'Istok Web', sans-serif;
 background-image: url("https://media.giphy.com/media/xUn3BV1jRVZImZRSKs/source.gif");
 background-repeat: no-repeat;
 background-size: cover;
@@ -8,6 +7,9 @@ background-position: center;
 position:absolute;
 top: 50%;
 left: 25%; 
+  
+font-family:'Istok Web', sans-serif;
+text-align: center;  
 }
 
 #title {
