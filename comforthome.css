@@ -1,19 +1,17 @@
-
 #landing {
 background-image: url("https://media.giphy.com/media/xUn3BV1jRVZImZRSKs/source.gif");
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 position: absolute;
-background-attachment: fixed;  
-  
+background-attachment: fixed;    
 font-family:'Istok Web', sans-serif;
 text-align: center;  
 }
 
 header {
-  text-align: center;
-  font-family:'Bangers', cursive;;
+text-align: center;
+font-family:'Bangers', cursive;;
 }
 
 .navbar {
@@ -37,3 +35,11 @@ header {
   text-align: center;
   font-size: 210%;
 }
+.blah {
+background-color: #032133;
+  width:100%;
+  min-height:100%;
+  display:block;
+  position:relative;
+  float:left
+}   
