@@ -3,7 +3,7 @@ background-image: url("https://media.giphy.com/media/xUn3BV1jRVZImZRSKs/source.g
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-position: absolute;
+/*position: absolute;*/
 background-attachment: fixed;    
 font-family:'Istok Web', sans-serif;
 text-align: center;  
@@ -11,8 +11,16 @@ text-align: center;
 
 header {
 text-align: center;
-font-family:'Bangers', cursive;;
-}
+font-family:'Bangers', cursive;
+width:100%;
+padding:16px;
+display:block;
+position:absolute;
+z-index: 5;
+box-shadow:0 8px 6px -6px #000
+}  
+  
+
 
 .navbar {
   overflow: hidden;
