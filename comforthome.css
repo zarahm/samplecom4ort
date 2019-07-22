@@ -18,6 +18,22 @@ display:block;
 position:absolute;
 z-index: 5;
 box-shadow:0 8px 6px -6px #000
+
+.wrapperHeader {
+ width:100%;
+ height;200px; /* height of the background image? */
+ background:url("source.gif") repeat-x 0 0;
+ text-align:center;
+ width:1000px;
+ height:200px;
+ margin:0 auto;
+}
+
+.wrapperHeader #header img {
+ width:; /* the width of the logo image */
+ height:; /* the height of the logo image */
+ margin:0 auto;
+}  
 }  
   
 
